@@ -13,9 +13,7 @@ export default function Page() {
         My interests lie within data analysis, operations research, and data science. I 
         look forward to connecting!`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
+      
     </section>
   )
 }
